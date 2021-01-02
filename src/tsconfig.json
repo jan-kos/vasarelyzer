@@ -9,5 +9,9 @@
         "declaration": true,
         "outDir": "../script/build",
         "sourceMap": true,
+
+        "typeRoots": [
+            "../node_modules/@types"
+        ]
     }
 }

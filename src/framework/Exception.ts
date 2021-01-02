@@ -1,6 +1,6 @@
 
 export default class Exception extends Error {
-    constructor() {
-        super();
+    constructor(message ?: string) {
+        super(message);
     }
 }
