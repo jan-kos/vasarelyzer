@@ -1,4 +1,6 @@
 
+import Exception from "./framework/Exception.js";
+
 async function main(args : URLSearchParams) {
     console.log( `Hello world from Boot.ts` );
 }
