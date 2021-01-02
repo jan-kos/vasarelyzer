@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "target": "ESNext",
+
+        "noImplicitAny": true,
+        "strict": true,
+
+        "declaration": true,
+        "outDir": "../script/build",
+        "sourceMap": true,
+    }
+}
